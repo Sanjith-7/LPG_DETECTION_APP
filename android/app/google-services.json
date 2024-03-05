@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "932355373363",
+    "project_id": "gas-detection-ff777",
+    "storage_bucket": "gas-detection-ff777.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932355373363:android:3c1b900adc03e63e38e646",
+        "android_client_info": {
+          "package_name": "com.example.hacktrix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9zpJDcSTFHmS4lxQ3E6gSz3augtkH_4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
